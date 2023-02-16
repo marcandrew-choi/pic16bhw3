@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&subset=cyrillic');
+
+html {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#547DA0;
+}
+
+li {
+    color: white;
+    padding: 14px;
+}
